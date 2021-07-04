@@ -67,7 +67,8 @@ C:\Users\ABDULSHAIK\source\repos\abshaik2929\Demo_MSBuild\LoginFormDemo\bin\Newt
 C:\Users\ABDULSHAIK\source\repos\abshaik2929\Demo_MSBuild\LoginFormDemo\bin\Antlr3.Runtime.pdb
 C:\Users\ABDULSHAIK\source\repos\abshaik2929\Demo_MSBuild\LoginFormDemo\bin\Microsoft.AspNet.FriendlyUrls.xml
 C:\Users\ABDULSHAIK\source\repos\abshaik2929\Demo_MSBuild\LoginFormDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\ABDULSHAIK\source\repos\abshaik2929\Demo_MSBuild\LoginFormDemo\obj\Debug\LoginFormDemo.csproj.CoreCompileInputs.cache
-C:\Users\ABDULSHAIK\source\repos\abshaik2929\Demo_MSBuild\LoginFormDemo\obj\Debug\LoginFormDemo.csproj.CopyComplete
-C:\Users\ABDULSHAIK\source\repos\abshaik2929\Demo_MSBuild\LoginFormDemo\obj\Debug\LoginFormDemo.dll
-C:\Users\ABDULSHAIK\source\repos\abshaik2929\Demo_MSBuild\LoginFormDemo\obj\Debug\LoginFormDemo.pdb
+C:\Users\ABDULSHAIK\source\repos\abshaik2929\Demo_MSBuild\LoginFormDemo\obj\Release\LoginFormDemo.csproj.AssemblyReference.cache
+C:\Users\ABDULSHAIK\source\repos\abshaik2929\Demo_MSBuild\LoginFormDemo\obj\Release\LoginFormDemo.csproj.CoreCompileInputs.cache
+C:\Users\ABDULSHAIK\source\repos\abshaik2929\Demo_MSBuild\LoginFormDemo\obj\Release\LoginFormDemo.csproj.CopyComplete
+C:\Users\ABDULSHAIK\source\repos\abshaik2929\Demo_MSBuild\LoginFormDemo\obj\Release\LoginFormDemo.dll
+C:\Users\ABDULSHAIK\source\repos\abshaik2929\Demo_MSBuild\LoginFormDemo\obj\Release\LoginFormDemo.pdb

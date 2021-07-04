@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build"
+xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<PropertyGroup>
+		<Configuration>Release</Configuration>
+	</PropertyGroup>
+	<PropertyGroup>
+		<Platform>AnyCPU</Platform>
+	</PropertyGroup>
+
+	<PropertyGroup>
+		<SourceFolder>C:\Users\ABDULSHAIK\source\repos\abshaik2929\Demo_MSBuild</SourceFolder>
+	</PropertyGroup>
+
+	<!--Start the Build process-->
+	<Target Name="Start">
+		<CallTarget Targets="Build"></CallTarget>
+	</Target>
+
+	<!--Build the metrics file-->
+	<Target Name = "Build">
+		<MSBuild
+			Projects ="$(SourceFolder)\LoginFormDemo.sln"
+			Properties="Configuration=Release"
+			Targets="Clean;Build"
+			ContinueOnError="False"
+			StopOnFirstFailure="True"/>
+	</Target>
+
+</Project>
