@@ -9,7 +9,7 @@ xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
 	</PropertyGroup>
 
 	<PropertyGroup>
-		<SourceFolder>C:\Users\ABDULSHAIK\source\repos\abshaik2929\Demo_MSBuild</SourceFolder>
+		<SourceFolder>C:\Windows\System32\config\systemprofile\AppData\Local\Jenkins\.jenkins\workspace\MsBuild_LoginDemo</SourceFolder>
 	</PropertyGroup>
 
 	<!--Start the Build process-->
